@@ -139,5 +139,5 @@ if __name__ == "__main__":
     parser.add_argument("--no-visuals", action="store_true", help="Ne pas générer les visuels PNG")
     parser.add_argument("--test", action="store_true", help="Mode test avec données mockées")
     parser.add_argument("--api-key", type=str, help="Clé API Anthropic (optionnel si var env définie)")
-    args = parser.parse_args()
+    args = parser.parse_args(['--test'])
     run(args)

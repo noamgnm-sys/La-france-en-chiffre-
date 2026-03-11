@@ -1,10 +1,8 @@
 name: 🗞️ Pipeline Daily — La France en Chiffres
-
 on:
   schedule:
     - cron: '0 7 * * *'
   workflow_dispatch:
-
 jobs:
   pipeline:
     name: Scraping + Analyse + Visuels
@@ -12,24 +10,19 @@ jobs:
     timeout-minutes: 30
     permissions:
       contents: write
-
     steps:
       - name: 📥 Checkout repo
         uses: actions/checkout@v4
-
       - name: 🐍 Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
       - name: 📦 Installer les dépendances
         run: pip install -r lfec/requirements.txt
-
       - name: 🚀 Lancer le pipeline
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python lfec/scripts/main.py --no-visuals
-
+        run: python lfec/scripts/main.py --no-visuals --test
       - name: 💾 Commit les stats
         run: |
           git config --local user.email "pipeline@lafranceenchiffres.fr"

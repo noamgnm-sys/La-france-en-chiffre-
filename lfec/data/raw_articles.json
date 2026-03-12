@@ -1,22 +1,72 @@
 [
   {
-    "id": "test001",
-    "source": "INSEE",
-    "rubrique": "Économie",
-    "title": "En 2023, 9,1 millions de personnes vivent sous le seuil de pauvreté",
-    "summary": "Le taux de pauvreté s'établit à 14,4% de la population française en 2023. Les jeunes de 18-29 ans sont particulièrement touchés avec un taux de 21%. Le seuil de pauvreté est fixé à 1 158€ par mois pour une personne seule.",
-    "url": "https://www.insee.fr/test",
-    "date": "2026-03-12T18:00:42.204113+00:00",
-    "fetched_at": "2026-03-12T18:00:42.204119+00:00"
-  },
-  {
-    "id": "test002",
+    "id": "ece6a626a4d03b8706122359a3a67c71",
     "source": "Oxfam France",
     "rubrique": "Inégalités",
-    "title": "Les dividendes du CAC40 atteignent un nouveau record en 2023",
-    "summary": "Les 40 plus grandes entreprises françaises ont versé 67,4 milliards d'euros de dividendes en 2023, soit une augmentation de 12% par rapport à 2022. Dans le même temps, 200 000 emplois ont été supprimés en France.",
-    "url": "https://www.oxfamfrance.org/test",
-    "date": "2026-03-12T18:00:42.204122+00:00",
-    "fetched_at": "2026-03-12T18:00:42.204123+00:00"
+    "title": "L’ordre d’évacuation au Soudan du Sud prive plus de 200 000 personnes d’aide humanitaire et aggrave une situation déjà catastrophique",
+    "summary": "L&#8217;ordre d&#8217;évacuation de la ville frontalière d&#8217;Akobo Est, dans le nord du Soudan du Sud, qui a contraint des dizaines de milliers de personnes –&#8230; View Post L’article L&rsquo;ordre d&rsquo;évacuation au Soudan du Sud prive plus de 200 000 personnes d&rsquo;aide humanitaire et aggrave une situation déjà catastrophique est apparu en premier sur Oxfam France .",
+    "url": "https://www.oxfamfrance.org/communiques-de-presse/crise-humanitaire-soudan-du-sud/",
+    "date": "Thu, 12 Mar 2026 10:15:12 +0000",
+    "fetched_at": "2026-03-12T18:07:28.787876+00:00"
+  },
+  {
+    "id": "201ff49871ddf5bc8559d655c7bcdbaf",
+    "source": "Fondation Abbé Pierre",
+    "rubrique": "Logement",
+    "title": "À Lyon, créer du lien et mettre à l’abri !",
+    "summary": "Grâce à l’aide financière de la Fondation, l’association lyonnaise&#160;« Fraternité, intégration, hospitalité, égalité, relogement »&#160;s’installera en avril prochain&#160;dans un local en plein centre-ville, dans le quartier populaire de la Guillotière, où la précarité touche de nombreuses familles, dont des étudiants inscrits dans les facultés toutes proches.&#160; Dès l’ouverture, des services tels que des cours de [&#8230;] The post À Lyon, créer du lien et mettre à l’abri ! appeared first on La Fondation pour le Logement des Défavorisés .",
+    "url": "https://www.fondationpourlelogement.fr/a-lyon-creer-du-lien-et-mettre-a-labri/",
+    "date": "Thu, 12 Mar 2026 15:52:19 +0000",
+    "fetched_at": "2026-03-12T18:07:30.500734+00:00"
+  },
+  {
+    "id": "c6ebc69001ee292374275e71b96865f1",
+    "source": "Le Monde (Société)",
+    "rubrique": "Société",
+    "title": "En Seine-Saint-Denis, le lent essor d’élus issus des classes populaires",
+    "summary": "Dans leur essai « Elus des banlieues populaires », les sociologues Marie-Hélène Bacqué et Jeanne Demoulin décryptent l’évolution du paysage politique municipal de la banlieue rouge.",
+    "url": "https://www.lemonde.fr/idees/article/2026/03/12/en-seine-saint-denis-le-lent-essor-d-elus-issus-des-classes-populaires_6670798_3232.html",
+    "date": "Thu, 12 Mar 2026 19:00:04 +0100",
+    "fetched_at": "2026-03-12T18:07:33.107853+00:00"
+  },
+  {
+    "id": "8575ba7d363a7dd20e0e4ad5881f2055",
+    "source": "Le Monde (Société)",
+    "rubrique": "Société",
+    "title": "La maison mère d’Yves Rocher condamnée pour manquement à son devoir de vigilance au sein d’une filiale turque",
+    "summary": "L’affaire remonte à une vague de licenciements lancée en 2018 par Kosan Kozmetik, filiale turque du groupe Rocher jusqu’en 2024, après l’arrivée du syndicat Petrol-Is dans l’usine, auquel de nombreux salariés avaient adhéré, avant d’être remerciés.",
+    "url": "https://www.lemonde.fr/societe/article/2026/03/12/la-maison-mere-d-yves-rocher-condamnee-pour-manquement-a-son-devoir-de-vigilance-au-sein-d-une-filiale-turque_6670791_3224.html",
+    "date": "Thu, 12 Mar 2026 18:19:44 +0100",
+    "fetched_at": "2026-03-12T18:07:33.107878+00:00"
+  },
+  {
+    "id": "e99b14fd87875012dbadfe072b5da99b",
+    "source": "Le Monde (Société)",
+    "rubrique": "Société",
+    "title": "« Ganito », qui s’est évadé samedi, est de nouveau condamné jeudi en appel et fait l’objet d’un mandat d’arrêt",
+    "summary": "Ilyas Kherbouch, toujours en cavale, a été condamé à six ans d’emprisonnement ferme, comme en première instance, pour complicité de tentative de vol aggravée par trois circonstances, pour un home-jacking commis le 7 février 2024 à Paris.",
+    "url": "https://www.lemonde.fr/societe/article/2026/03/12/ganito-qui-s-est-evade-samedi-est-de-nouveau-condamne-jeudi-en-appel-et-fait-l-objet-d-un-mandat-d-arret_6670790_3224.html",
+    "date": "Thu, 12 Mar 2026 18:15:39 +0100",
+    "fetched_at": "2026-03-12T18:07:33.107898+00:00"
+  },
+  {
+    "id": "587e2a3f1d08876fb41bc12cc5951a4a",
+    "source": "Le Monde (Société)",
+    "rubrique": "Société",
+    "title": "Les « groupes de besoins » obligatoires au collège sont abrogés, deux ans après leur création",
+    "summary": "La mesure phare du « choc des savoirs » voulue par l’ancien ministre de l’éducation nationale Gabriel Attal, est officiellement abandonnée par un décret publié jeudi 12 mars.",
+    "url": "https://www.lemonde.fr/societe/article/2026/03/12/les-groupes-de-besoins-obligatoires-au-college-sont-abroges-deux-ans-apres-leur-creation_6670768_3224.html",
+    "date": "Thu, 12 Mar 2026 16:26:43 +0100",
+    "fetched_at": "2026-03-12T18:07:33.107915+00:00"
+  },
+  {
+    "id": "7dcd6bf6a17531b79198ff2e9c93865b",
+    "source": "Le Monde (Société)",
+    "rubrique": "Société",
+    "title": "Au sein de l’anglicanisme, le schisme des Eglises africaines",
+    "summary": "Réuni à Abuja, au Nigeria, un réseau d’Eglises conservatrices a annoncé, le 5 mars, la création d’un Conseil anglican mondial, défiant l’autorité de Londres, où une femme a pour la première fois été nommée archevêque de Canterbury.",
+    "url": "https://www.lemonde.fr/afrique/article/2026/03/12/au-sein-de-l-anglicanisme-le-schisme-des-eglises-africaines_6670759_3212.html",
+    "date": "Thu, 12 Mar 2026 16:00:33 +0100",
+    "fetched_at": "2026-03-12T18:07:33.107934+00:00"
   }
 ]

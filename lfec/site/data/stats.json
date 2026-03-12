@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-12T18:00:57.080806+00:00",
-  "total": 12,
+  "last_updated": "2026-03-12T18:07:50.912996+00:00",
+  "total": 15,
   "new_today": 3,
   "stats": [
     {
@@ -116,6 +116,22 @@
       "id": "stat_20260312_001"
     },
     {
+      "chiffre": "200 000",
+      "unite": "personnes",
+      "rubrique": "Inégalités",
+      "titre": "Soudan du Sud: 200 000 personnes privées d'aide",
+      "texte": "Un ordre d'évacuation prive plus de 200 000 personnes d'aide humanitaire au Soudan du Sud.",
+      "angle_viral": "200 000 personnes abandonnées sans aide humanitaire à cause d'un ordre d'évacuation au Soudan du Sud",
+      "comparaison": "L'équivalent de la population de Rennes privée d'aide d'urgence",
+      "source_nom": "Oxfam France",
+      "source_url": "https://www.oxfamfrance.org/communiques-de-presse/crise-humanitaire-soudan-du-sud/",
+      "script_tiktok": "200 000 personnes au Soudan du Sud viennent d'être privées d'aide humanitaire. Un ordre d'évacuation aggrave une situation déjà catastrophique. C'est l'équivalent de toute la ville de Rennes abandonnée.",
+      "caption_insta": "🚨 200 000 personnes privées d'aide au Soudan du Sud! Une crise humanitaire qui s'aggrave #CriseHumanitaire #SoudanDuSud #Urgence",
+      "score_viralite": 8,
+      "generated_at": "2026-03-12T18:07:44.305940+00:00",
+      "id": "stat_20260312_001"
+    },
+    {
       "chiffre": "9,1M",
       "unite": "personnes",
       "rubrique": "Inégalités",
@@ -180,6 +196,22 @@
       "id": "stat_20260312_002"
     },
     {
+      "chiffre": "6",
+      "unite": "ans ferme",
+      "rubrique": "Société",
+      "titre": "Ganito condamné 6 ans après son évasion",
+      "texte": "Ilyas Kherbouch dit Ganito condamné à 6 ans ferme alors qu'il est en cavale.",
+      "angle_viral": "Il s'évade samedi et se fait condamner à 6 ans ferme jeudi: l'incroyable affaire Ganito",
+      "comparaison": null,
+      "source_nom": "Le Monde",
+      "source_url": "https://www.lemonde.fr/societe/article/2026/03/12/ganito-qui-s-est-evade-samedi-est-de-nouveau-condamne-jeudi-en-appel-et-fait-l-objet-d-un-mandat-d-arret_6670790_3224.html",
+      "script_tiktok": "Il s'évade samedi de prison. Jeudi, il est condamné à 6 ans ferme en appel. Ilyas Kherbouch dit Ganito fait l'objet d'un mandat d'arrêt.",
+      "caption_insta": "🏃‍♂️ Évasion samedi, condamnation jeudi: l'affaire Ganito fait du bruit! 6 ans ferme #Justice #Evasion #Ganito",
+      "score_viralite": 7,
+      "generated_at": "2026-03-12T18:07:44.305967+00:00",
+      "id": "stat_20260312_002"
+    },
+    {
       "chiffre": "9,1M",
       "unite": "de personnes",
       "rubrique": "Société",
@@ -193,6 +225,22 @@
       "caption_insta": "😔 9,1M de Français <1158€/mois = 14,4% de la population #Pauvreté #INSEE #France2023 📉",
       "score_viralite": 7,
       "generated_at": "2026-03-12T16:46:47.590353+00:00",
+      "id": "stat_20260312_003"
+    },
+    {
+      "chiffre": "2 ans",
+      "unite": "années",
+      "rubrique": "Société",
+      "titre": "Groupes de besoins au collège abrogés",
+      "texte": "La mesure phare du choc des savoirs abandonnée après seulement deux ans.",
+      "angle_viral": "L'Éducation nationale abandonne sa réforme star après 2 ans seulement !",
+      "comparaison": "Durée de vie plus courte qu'un mandat présidentiel",
+      "source_nom": "Le Monde",
+      "source_url": "https://www.lemonde.fr/societe/article/2026/03/12/les-groupes-de-besoins-obligatoires-au-college-sont-abroges-deux-ans-apres-leur-creation_6670768_3224.html",
+      "script_tiktok": "Les groupes de besoins au collège ? Fini ! Après 2 ans seulement, l'Éducation nationale fait marche arrière. Une réforme qui n'aura pas fait long feu.",
+      "caption_insta": "🎓 Réforme scolaire abandonnée après 2 ans ! L'éducation change encore de cap 📚 #Education #College #Reforme",
+      "score_viralite": 6,
+      "generated_at": "2026-03-12T18:07:50.912744+00:00",
       "id": "stat_20260312_003"
     }
   ]

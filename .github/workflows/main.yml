@@ -27,7 +27,8 @@ jobs:
         run: |
           git config --local user.email "pipeline@lafranceenchiffres.fr"
           git config --local user.name "LFEC Bot"
-          git add lfec/site/data/stats.json lfec/data/ || true
-          git diff --staged --quiet || git commit -m "📊 Stats du $(date +'%d/%m/%Y')"
-          git push
+          git add -A
+          git status
+          git commit -m "📊 Stats du $(date +'%d/%m/%Y')" || echo "Rien à commiter"
+          git push || echo "Push échoué"
         continue-on-error: true

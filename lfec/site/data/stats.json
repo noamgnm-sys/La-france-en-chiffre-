@@ -1,8 +1,40 @@
 {
-  "last_updated": "2026-03-12T17:09:55.712940+00:00",
-  "total": 6,
+  "last_updated": "2026-03-12T17:35:02.367690+00:00",
+  "total": 9,
   "new_today": 3,
   "stats": [
+    {
+      "chiffre": "9,1M",
+      "unite": "personnes",
+      "rubrique": "Inégalités",
+      "titre": "9,1 millions de Français sous le seuil pauvreté",
+      "texte": "14,4% de la population française vit avec moins de 1158€ par mois.",
+      "angle_viral": "1 Français sur 7 vit sous le seuil de pauvreté avec moins de 1158€ par mois",
+      "comparaison": "Plus que la population de la Suisse et de l'Autriche réunies",
+      "source_nom": "INSEE",
+      "source_url": "https://www.insee.fr/test",
+      "script_tiktok": "9,1 millions de Français vivent sous le seuil de pauvreté. Ça représente 1 personne sur 7 dans notre pays. Avec moins de 1158€ par mois pour survivre.",
+      "caption_insta": "😰 9,1M de Français sous le seuil de pauvreté ! 1158€/mois max... #pauvrete #inegalites #france #social 📊",
+      "score_viralite": 9,
+      "generated_at": "2026-03-12T17:35:02.367418+00:00",
+      "id": "stat_20260312_001"
+    },
+    {
+      "chiffre": "67,4Mds€",
+      "unite": "de dividendes",
+      "rubrique": "Inégalités",
+      "titre": "CAC40 verse 67 milliards aux actionnaires",
+      "texte": "Record historique de dividendes versés par les plus grandes entreprises françaises.",
+      "angle_viral": "67 milliards aux actionnaires pendant que 200 000 emplois disparaissent en France",
+      "comparaison": "580€ par français actif versés aux actionnaires",
+      "source_nom": "Oxfam France",
+      "source_url": "https://www.oxfamfrance.org/test",
+      "script_tiktok": "67 milliards d'euros de dividendes pour le CAC40. Dans le même temps, 200 000 emplois supprimés. Les priorités sont claires.",
+      "caption_insta": "💰 67Mds€ de dividendes vs 200k emplois supprimés ! Cherchez l'erreur... #cac40 #dividendes #emploi 📈",
+      "score_viralite": 9,
+      "generated_at": "2026-03-12T17:35:02.367465+00:00",
+      "id": "stat_20260312_003"
+    },
     {
       "chiffre": "9,1M",
       "unite": "personnes",
@@ -50,6 +82,22 @@
       "score_viralite": 9,
       "generated_at": "2026-03-12T16:46:47.590313+00:00",
       "id": "stat_20260312_001"
+    },
+    {
+      "chiffre": "21%",
+      "unite": "des 18-29 ans",
+      "rubrique": "Société",
+      "titre": "1 jeune sur 5 vit dans la pauvreté",
+      "texte": "Les 18-29 ans affichent un taux de pauvreté de 21% en France.",
+      "angle_viral": "La génération sacrifiée : 1 jeune français sur 5 vit dans la pauvreté",
+      "comparaison": "Taux 50% plus élevé que la moyenne nationale",
+      "source_nom": "INSEE",
+      "source_url": "https://www.insee.fr/test",
+      "script_tiktok": "Tu as entre 18 et 29 ans ? 1 personne sur 5 de ton âge vit dans la pauvreté. 21% des jeunes français galèrent financièrement.",
+      "caption_insta": "🚨 21% des jeunes français vivent dans la pauvreté ! #jeunes #precarite #france #galere 💸",
+      "score_viralite": 8,
+      "generated_at": "2026-03-12T17:35:02.367457+00:00",
+      "id": "stat_20260312_002"
     },
     {
       "chiffre": "21%",

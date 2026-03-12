@@ -1,8 +1,40 @@
 {
-  "last_updated": "2026-03-12T17:35:02.367690+00:00",
-  "total": 9,
+  "last_updated": "2026-03-12T18:00:57.080806+00:00",
+  "total": 12,
   "new_today": 3,
   "stats": [
+    {
+      "chiffre": "21%",
+      "unite": "des 18-29 ans",
+      "rubrique": "Société",
+      "titre": "1 jeune sur 5 vit sous le seuil de pauvreté",
+      "texte": "Les 18-29 ans affichent un taux de pauvreté de 21% en 2023.",
+      "angle_viral": "Être jeune en France : 1 chance sur 5 de vivre dans la pauvreté",
+      "comparaison": "Taux 50% plus élevé que la moyenne nationale",
+      "source_nom": "INSEE",
+      "source_url": "https://www.insee.fr/test",
+      "script_tiktok": "21% des jeunes de 18-29 ans vivent sous le seuil de pauvreté. Soit 1 jeune sur 5. L'avenir fait peur...",
+      "caption_insta": "🚨 1 jeune sur 5 dans la pauvreté en France ! 21% des 18-29 ans... #jeunesse #pauvrete #avenir #inegalites 😔",
+      "score_viralite": 9,
+      "generated_at": "2026-03-12T18:00:57.080577+00:00",
+      "id": "stat_20260312_002"
+    },
+    {
+      "chiffre": "67,4 Mds€",
+      "unite": "dividendes",
+      "rubrique": "Inégalités",
+      "titre": "Record de dividendes malgré 200000 licenciements",
+      "texte": "Le CAC40 verse 67,4 milliards aux actionnaires pendant que 200000 emplois disparaissent.",
+      "angle_viral": "CAC40 : 67 milliards aux actionnaires, 200 000 licenciements pour les salariés",
+      "comparaison": "58 fois le budget de la pauvreté française",
+      "source_nom": "Oxfam France",
+      "source_url": "https://www.oxfamfrance.org/test",
+      "script_tiktok": "67 milliards de dividendes pour le CAC40 en 2023. Dans le même temps, 200000 emplois supprimés. Cherchez l'erreur...",
+      "caption_insta": "💰 CAC40: 67Mds€ aux actionnaires vs 200K licenciements ! L'équation française... #inegalites #cac40 #licenciements 😡",
+      "score_viralite": 9,
+      "generated_at": "2026-03-12T18:00:57.080583+00:00",
+      "id": "stat_20260312_003"
+    },
     {
       "chiffre": "9,1M",
       "unite": "personnes",
@@ -81,6 +113,22 @@
       "caption_insta": "😱 21% des jeunes vivent avec <1158€/mois ! #PauvretéJeunesse #InégalitésFrance #INSEE2023 💸",
       "score_viralite": 9,
       "generated_at": "2026-03-12T16:46:47.590313+00:00",
+      "id": "stat_20260312_001"
+    },
+    {
+      "chiffre": "9,1M",
+      "unite": "personnes",
+      "rubrique": "Inégalités",
+      "titre": "9,1 millions de Français sous le seuil de pauvreté",
+      "texte": "14,4% de la population française vit avec moins de 1158€ par mois.",
+      "angle_viral": "1 Français sur 7 vit sous le seuil de pauvreté avec moins de 1158€/mois",
+      "comparaison": "Plus que la population entière de la Suisse",
+      "source_nom": "INSEE",
+      "source_url": "https://www.insee.fr/test",
+      "script_tiktok": "9,1 millions de Français vivent sous le seuil de pauvreté. Ça représente 1 personne sur 7. Avec moins de 1158€ par mois.",
+      "caption_insta": "😱 9,1M de Français sous le seuil de pauvreté ! 1158€/mois max... #pauvrete #inegalites #france #chiffres #social 💔",
+      "score_viralite": 8,
+      "generated_at": "2026-03-12T18:00:57.080539+00:00",
       "id": "stat_20260312_001"
     },
     {

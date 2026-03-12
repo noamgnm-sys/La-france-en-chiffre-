@@ -26,21 +26,17 @@ Critères d'une bonne stat :
 Tu réponds UNIQUEMENT en JSON valide, sans markdown, sans commentaires."""
 
 def extract_stats_from_articles(articles: list, api_key: str) -> list:
-    """Envoie les articles à Claude et extrait les stats."""
     if not articles:
         print("Aucun article à analyser.")
         return []
 
     client = anthropic.Anthropic(api_key=api_key)
-
-    # Grouper les articles par lot de 5 pour ne pas dépasser le contexte
     batches = [articles[i:i+5] for i in range(0, min(len(articles), 20), 5)]
     all_stats = []
 
     for batch_idx, batch in enumerate(batches):
         print(f"  🧠 Analyse du lot {batch_idx + 1}/{len(batches)}...")
 
-        # Préparer le contenu
         content = ""
         for a in batch:
             content += f"\n\n---\nSOURCE: {a['source']} | RUBRIQUE: {a['rubrique']}\nTITRE: {a['title']}\nRÉSUMÉ: {a['summary']}\nURL: {a['url']}\n"
@@ -54,17 +50,17 @@ Retourne ce JSON exact :
   "stats": [
     {{
       "chiffre": "valeur principale courte (ex: 9,1M ou 67 Mds€ ou 23%)",
-      "unite": "unité si applicable (ex: personnes, euros, %)",
+      "unite": "unité si applicable",
       "rubrique": "Économie | Société | Politique | Entreprises | Santé | Logement | Environnement | Inégalités | Comparaisons",
-      "titre": "stat en 8 mots max (ex: Français sous le seuil de pauvreté)",
+      "titre": "stat en 8 mots max",
       "texte": "explication claire en 1 phrase (max 20 mots)",
-      "angle_viral": "formulation choc pour les réseaux sociaux (max 25 mots, ton percutant)",
-      "comparaison": "mise en perspective concrète (ex: = 3x le budget de l'éducation) ou null",
+      "angle_viral": "formulation choc pour les réseaux sociaux (max 25 mots)",
+      "comparaison": "mise en perspective concrète ou null",
       "source_nom": "nom de la source officielle",
       "source_url": "URL de l'article source",
-      "script_tiktok": "script 3 phrases pour vidéo 15s (accroche + chiffre + appel à l'émotion)",
+      "script_tiktok": "script 3 phrases pour vidéo 15s",
       "caption_insta": "caption Instagram avec emojis et hashtags (max 150 caractères)",
-      "score_viralite": 1-10
+      "score_viralite": 1
     }}
   ]
 }}
@@ -95,10 +91,8 @@ Ne génère une stat QUE si elle contient un chiffre réel et vérifiable. Maxim
     return all_stats
 
 def save_stats(new_stats: list):
-    """Ajoute les nouvelles stats au fichier existant."""
     STATS_FILE.parent.mkdir(parents=True, exist_ok=True)
 
-    # Charger les stats existantes
     existing = []
     if STATS_FILE.exists():
         try:
@@ -107,13 +101,8 @@ def save_stats(new_stats: list):
         except:
             existing = []
 
-    # Fusionner (nouvelles en premier)
     all_stats = new_stats + existing
-
-    # Garder max 200 stats
     all_stats = all_stats[:200]
-
-    # Trier par score de viralité
     all_stats.sort(key=lambda x: x.get("score_viralite", 0), reverse=True)
 
     output = {
@@ -128,7 +117,6 @@ def save_stats(new_stats: list):
     return all_stats
 
 def run_pipeline(api_key: str = None):
-    """Point d'entrée principal du pipeline."""
     if not api_key:
         api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
@@ -136,7 +124,6 @@ def run_pipeline(api_key: str = None):
 
     print("\n🧠 Démarrage du pipeline Claude...\n")
 
-    # Charger les articles scrapés
     if not RAW_FILE.exists():
         print("Aucun article brut trouvé. Lance scraper.py d'abord.")
         return []
@@ -148,19 +135,13 @@ def run_pipeline(api_key: str = None):
         print("  Aucun nouvel article aujourd'hui.")
         return []
 
-    # Extraire les stats
     stats = extract_stats_from_articles(articles, api_key)
     print(f"\n  ✨ {len(stats)} stats extraites")
 
-    # Sauvegarder
     save_stats(stats)
-
     return stats
 
 if __name__ == "__main__":
     stats = run_pipeline()
-    print(f"\n📊 Résultat :")
     for s in stats[:3]:
         print(f"  [{s['rubrique']}] {s['chiffre']} — {s['titre']}")
-        print(f"  Viralité: {s['score_viralite']}/10")
-        print()

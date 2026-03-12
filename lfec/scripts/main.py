@@ -30,10 +30,8 @@ def run(args):
     api_key = os.environ.get("ANTHROPIC_API_KEY") or args.api_key
     if not api_key and not args.test:
         print("❌ ANTHROPIC_API_KEY manquante.")
-        print("   Définis la variable d'environnement ou passe --api-key sk-ant-...")
         sys.exit(1)
 
-    # ── ÉTAPE 1 : SCRAPING ────────────────────────────────────────────────────
     print("=" * 50)
     print("ÉTAPE 1/3 — Scraping des sources")
     print("=" * 50)
@@ -62,7 +60,6 @@ def run(args):
                 "fetched_at": datetime.now(timezone.utc).isoformat()
             }
         ]
-        # Sauvegarder les articles mockés
         raw_file = ROOT / "data" / "raw_articles.json"
         raw_file.parent.mkdir(exist_ok=True)
         raw_file.write_text(json.dumps(mock_articles, ensure_ascii=False, indent=2))
@@ -76,7 +73,6 @@ def run(args):
         _write_summary(0, 0, start)
         return
 
-    # ── ÉTAPE 2 : ANALYSE CLAUDE ──────────────────────────────────────────────
     print(f"\n{'=' * 50}")
     print("ÉTAPE 2/3 — Analyse Claude & extraction stats")
     print("=" * 50)
@@ -89,7 +85,6 @@ def run(args):
         _write_summary(len(articles), 0, start)
         return
 
-    # ── ÉTAPE 3 : VISUELS ─────────────────────────────────────────────────────
     if not args.no_visuals:
         print(f"\n{'=' * 50}")
         print("ÉTAPE 3/3 — Génération des visuels")
@@ -102,7 +97,6 @@ def run(args):
     else:
         print("\n  [Visuels ignorés --no-visuals]")
 
-    # ── RÉSUMÉ ────────────────────────────────────────────────────────────────
     _write_summary(len(articles), len(stats), start)
 
 def _write_summary(articles_count, stats_count, start):
@@ -136,8 +130,8 @@ def _write_summary(articles_count, stats_count, start):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Pipeline La France en Chiffres")
-    parser.add_argument("--no-visuals", action="store_true", help="Ne pas générer les visuels PNG")
-    parser.add_argument("--test", action="store_true", help="Mode test avec données mockées")
-    parser.add_argument("--api-key", type=str, help="Clé API Anthropic (optionnel si var env définie)")
-    args = parser.parse_args(['--test'])
+    parser.add_argument("--no-visuals", action="store_true")
+    parser.add_argument("--test", action="store_true")
+    parser.add_argument("--api-key", type=str)
+    args = parser.parse_args()
     run(args)

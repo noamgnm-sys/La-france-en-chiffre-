@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-12T18:29:54.843547+00:00",
-  "total": 8,
-  "new_today": 8,
+  "last_updated": "2026-03-13T09:05:57.000384+00:00",
+  "total": 10,
+  "new_today": 2,
   "stats": [
     {
       "chiffre": "2000%",
@@ -34,6 +34,22 @@
       "score_viralite": 9,
       "generated_at": "2026-03-12T18:29:42.431534+00:00",
       "id": "stat_20260312_004"
+    },
+    {
+      "chiffre": "30 ans",
+      "unite": "de réclusion criminelle",
+      "rubrique": "Société",
+      "titre": "Condamnation record pour viol avec torture",
+      "texte": "Un homme condamné à 30 ans de prison pour viol avec torture à Cherbourg.",
+      "angle_viral": "30 ans de prison pour viol avec torture : la justice française frappe fort à Cherbourg",
+      "comparaison": "Peine maximale quasi-atteinte, proche de la perpétuité de 40 ans",
+      "source_nom": "Le Monde",
+      "source_url": "https://www.lemonde.fr/societe/article/2026/03/13/viol-avec-torture-a-cherbourg-en-2023-l-auteur-condamne-a-trente-ans-de-reclusion-criminelle_6670858_3224.html",
+      "script_tiktok": "Un homme condamné à 30 ans de prison pour viol avec torture. Avec 20 ans de période de sûreté incompressible. La justice française ne plaisante pas avec ces crimes.",
+      "caption_insta": "⚖️ 30 ans de prison pour viol avec torture à Cherbourg 😱 #Justice #France #Condamnation #Société",
+      "score_viralite": 8,
+      "generated_at": "2026-03-13T09:05:57.000059+00:00",
+      "id": "stat_20260313_001"
     },
     {
       "chiffre": "26M",
@@ -130,6 +146,22 @@
       "score_viralite": 7,
       "generated_at": "2026-03-12T18:29:54.843350+00:00",
       "id": "stat_20260312_007"
+    },
+    {
+      "chiffre": "20 ans",
+      "unite": "de période de sûreté",
+      "rubrique": "Société",
+      "titre": "Période de sûreté incompressible de 20 ans",
+      "texte": "Le condamné ne pourra pas sortir de prison avant 20 ans minimum.",
+      "angle_viral": "20 ans de prison ferme incompressible : aucune possibilité de sortie anticipée",
+      "comparaison": "Plus de la moitié de la peine totale sans possibilité de remise",
+      "source_nom": "Le Monde",
+      "source_url": "https://www.lemonde.fr/societe/article/2026/03/13/viol-avec-torture-a-cherbourg-en-2023-l-auteur-condamne-a-trente-ans-de-reclusion-criminelle_6670858_3224.html",
+      "script_tiktok": "20 ans de période de sûreté pour le violeur de Cherbourg. Ça veut dire qu'il ne peut pas sortir avant. Même pour bonne conduite.",
+      "caption_insta": "🔒 20 ans ferme sans possibilité de sortie anticipée #PeriodeDeSurete #Justice #Prison #France",
+      "score_viralite": 6,
+      "generated_at": "2026-03-13T09:05:57.000092+00:00",
+      "id": "stat_20260313_002"
     }
   ]
 }

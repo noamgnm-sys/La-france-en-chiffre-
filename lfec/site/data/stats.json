@@ -1,8 +1,24 @@
 {
-  "last_updated": "2026-03-13T09:05:57.000384+00:00",
-  "total": 10,
-  "new_today": 2,
+  "last_updated": "2026-03-14T07:59:35.311063+00:00",
+  "total": 13,
+  "new_today": 3,
   "stats": [
+    {
+      "chiffre": "15 ans",
+      "unite": "de crimes",
+      "rubrique": "Société",
+      "titre": "Instituteur accusé : 15 ans de crimes",
+      "texte": "Un enseignant accusé de 18 viols et 6 agressions pendant 15 ans d'impunité.",
+      "angle_viral": "15 ans de crimes dans une école : comment a-t-il pu continuer si longtemps ?",
+      "comparaison": "24 victimes identifiées entre 2008 et 2023",
+      "source_nom": "École Saint-Genès Bordeaux",
+      "source_url": "https://www.lemonde.fr/societe/article/2026/03/14/a-l-ecole-saint-genes-de-bordeaux-l-instituteur-accuse-de-viols-les-alertes-ignorees-et-les-enfances-ravagees_6671151_3224.html",
+      "script_tiktok": "15 ans de crimes dans une école ! Un instituteur accusé de 18 viols. Comment les alertes ont-elles été ignorées si longtemps ?",
+      "caption_insta": "😡 15 ans d'impunité pour un instituteur criminel... Les alertes ignorées 🤐 #justice #protection #enfants #scandale",
+      "score_viralite": 9,
+      "generated_at": "2026-03-14T07:59:35.310790+00:00",
+      "id": "stat_20260314_003"
+    },
     {
       "chiffre": "2000%",
       "unite": "d'augmentation",
@@ -34,6 +50,22 @@
       "score_viralite": 9,
       "generated_at": "2026-03-12T18:29:42.431534+00:00",
       "id": "stat_20260312_004"
+    },
+    {
+      "chiffre": "37%",
+      "unite": "des 15-25 ans",
+      "rubrique": "Société",
+      "titre": "Plus d'1 jeune sur 3 se sent seul",
+      "texte": "37% des 15-25 ans déclarent se sentir régulièrement seuls en France.",
+      "angle_viral": "Solitude record chez les jeunes : plus d'1 sur 3 se sent isolé !",
+      "comparaison": "Soit environ 2,5 millions de jeunes français concernés",
+      "source_nom": "Centre de recherche Crédoc",
+      "source_url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/03/14/pourquoi-les-jeunes-se-sentent-ils-de-plus-en-plus-seuls-comprendre-en-trois-minutes_6671158_6176282.html",
+      "script_tiktok": "37% des jeunes français se sentent seuls ! C'est plus d'1 sur 3 qui vit cette détresse. Une génération hyper-connectée mais jamais aussi isolée.",
+      "caption_insta": "😔 37% des jeunes se sentent seuls... Une génération connectée mais isolée 💔 #solitude #jeunes #mentalhealth #france",
+      "score_viralite": 8,
+      "generated_at": "2026-03-14T07:59:35.310749+00:00",
+      "id": "stat_20260314_001"
     },
     {
       "chiffre": "30 ans",
@@ -98,6 +130,22 @@
       "score_viralite": 8,
       "generated_at": "2026-03-12T18:29:54.843380+00:00",
       "id": "stat_20260312_008"
+    },
+    {
+      "chiffre": "200+",
+      "unite": "témoignages",
+      "rubrique": "Société",
+      "titre": "200 témoignages de violences scolaires catholiques",
+      "texte": "Plus de 200 témoignages d'anciens élèves dénoncent des violences dans 50 écoles lasalliennes.",
+      "angle_viral": "200 victimes sortent du silence : violences massives dans l'école catholique !",
+      "comparaison": "50 établissements concernés sur 40 ans (1960-2000)",
+      "source_nom": "Collectif d'anciens élèves",
+      "source_url": "https://www.lemonde.fr/societe/article/2026/03/14/un-collectif-d-anciens-eleves-denonce-un-passe-de-violences-au-sein-des-etablissements-du-reseau-lasallien_6671166_3224.html",
+      "script_tiktok": "200 témoignages choc ! Des anciens élèves dénoncent des violences dans 50 écoles catholiques. 40 ans de silence brisé.",
+      "caption_insta": "⚠️ 200+ témoignages de violences dans l'école catholique... 40 ans de silence enfin brisé 😢 #justice #violences #ecole",
+      "score_viralite": 7,
+      "generated_at": "2026-03-14T07:59:35.310780+00:00",
+      "id": "stat_20260314_002"
     },
     {
       "chiffre": "200 000",

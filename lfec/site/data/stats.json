@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-14T07:59:35.311063+00:00",
-  "total": 13,
-  "new_today": 3,
+  "last_updated": "2026-03-15T08:04:37.683358+00:00",
+  "total": 17,
+  "new_today": 4,
   "stats": [
     {
       "chiffre": "15 ans",
@@ -50,6 +50,22 @@
       "score_viralite": 9,
       "generated_at": "2026-03-12T18:29:42.431534+00:00",
       "id": "stat_20260312_004"
+    },
+    {
+      "chiffre": "10",
+      "unite": "produits",
+      "rubrique": "Société",
+      "titre": "Préados et skincare : jusqu'à 10 produits",
+      "texte": "Les filles de 9-13 ans utilisent jusqu'à 10 produits cosmétiques différents quotidiennement",
+      "angle_viral": "Des enfants de 9 ans avec des routines beauté plus complexes que des adultes",
+      "comparaison": "Plus de produits qu'une influenceuse beauté professionnelle",
+      "source_nom": "Le Monde",
+      "source_url": "https://www.lemonde.fr/m-perso/article/2026/03/15/la-skincare-obsession-des-preadolescentes-elles-peuvent-utiliser-jusqu-a-dix-produits-differents_6671264_4497916.html",
+      "script_tiktok": "Des filles de 9 ans utilisent 10 produits de beauté par jour. Sérums, masques, patchs : leur routine dépasse celle d'adultes. Les réseaux sociaux transforment nos enfants en mini-influenceuses.",
+      "caption_insta": "🚨 Enfants de 9 ans = 10 produits beauté/jour ! La K-Beauty influence nos préados 😱 #SkincareKids #Société #Enfance",
+      "score_viralite": 8,
+      "generated_at": "2026-03-15T08:04:27.017833+00:00",
+      "id": "stat_20260315_001"
     },
     {
       "chiffre": "37%",
@@ -132,6 +148,22 @@
       "id": "stat_20260312_008"
     },
     {
+      "chiffre": "26",
+      "unite": "personnes",
+      "rubrique": "Société",
+      "titre": "DZ Mafia : 26 personnes mises en examen",
+      "texte": "26 personnes mises en examen dans l'affaire de blanchiment DZ Mafia à Marseille",
+      "angle_viral": "Démantèlement d'un réseau de blanchiment : 26 arrestations dont un avocat et un rappeur",
+      "comparaison": "Plus d'arrestations que dans certaines affaires de terrorisme",
+      "source_nom": "Le Monde",
+      "source_url": "https://www.lemonde.fr/societe/article/2026/03/14/dz-mafia-comment-la-justice-s-est-attaquee-au-systeme-de-blanchiment-de-l-argent-issu-du-narcotrafic_6671223_3224.html",
+      "script_tiktok": "26 personnes arrêtées dans l'affaire DZ Mafia. Parmi elles : un avocat et un rappeur. Le système de blanchiment du narcotrafic marseillais démantelé.",
+      "caption_insta": "⚖️ DZ Mafia : 26 arrestations ! Avocat + rappeur impliqués 😳 #Justice #Marseille #Narcotrafic #DZMafia",
+      "score_viralite": 7,
+      "generated_at": "2026-03-15T08:04:27.017860+00:00",
+      "id": "stat_20260315_002"
+    },
+    {
       "chiffre": "200+",
       "unite": "témoignages",
       "rubrique": "Société",
@@ -196,6 +228,22 @@
       "id": "stat_20260312_007"
     },
     {
+      "chiffre": "49 000",
+      "unite": "manifestants",
+      "rubrique": "Société",
+      "titre": "49 000 manifestants contre le racisme",
+      "texte": "49 000 personnes ont manifesté contre le racisme à travers la France.",
+      "angle_viral": "49 000 Français dans la rue contre le racisme à la veille des municipales",
+      "comparaison": "L'équivalent de la population de Cannes mobilisée en une journée",
+      "source_nom": "Le Monde",
+      "source_url": "https://www.lemonde.fr/societe/article/2026/03/14/plusieurs-manifestations-contre-le-racisme-organisees-en-france-a-la-veille-du-premier-tour-des-elections-municipales_6671209_3224.html",
+      "script_tiktok": "49 000 manifestants contre le racisme hier en France. Paris et Lyon : 11 000 chacune. La mobilisation à la veille des municipales.",
+      "caption_insta": "🔥 49K manifestants contre le racisme ! Paris & Lyon en tête avec 11K chacune ✊ #AntiRacisme #Manifestation",
+      "score_viralite": 6,
+      "generated_at": "2026-03-15T08:04:37.683021+00:00",
+      "id": "stat_20260315_003"
+    },
+    {
       "chiffre": "20 ans",
       "unite": "de période de sûreté",
       "rubrique": "Société",
@@ -210,6 +258,22 @@
       "score_viralite": 6,
       "generated_at": "2026-03-13T09:05:57.000092+00:00",
       "id": "stat_20260313_002"
+    },
+    {
+      "chiffre": "11 000",
+      "unite": "manifestants",
+      "rubrique": "Société",
+      "titre": "11 000 manifestants à Paris et Lyon",
+      "texte": "Paris et Lyon ont chacune rassemblé 11 000 manifestants antiracistes.",
+      "angle_viral": "Paris et Lyon à égalité : 11 000 manifestants chacune contre le racisme",
+      "comparaison": "Plus que la capacité de l'AccorHotels Arena dans chaque ville",
+      "source_nom": "Le Monde",
+      "source_url": "https://www.lemonde.fr/societe/article/2026/03/14/plusieurs-manifestations-contre-le-racisme-organisees-en-france-a-la-veille-du-premier-tour-des-elections-municipales_6671209_3224.html",
+      "script_tiktok": "11 000 à Paris, 11 000 à Lyon. Égalité parfaite dans la mobilisation antiraciste. Le timing avant les municipales interroge.",
+      "caption_insta": "🏛️ 11K à Paris = 11K à Lyon ! Mobilisation antiracisme parfaitement équilibrée ⚖️ #EgalitePaLy #Manif",
+      "score_viralite": 5,
+      "generated_at": "2026-03-15T08:04:37.683047+00:00",
+      "id": "stat_20260315_004"
     }
   ]
 }

@@ -1,8 +1,24 @@
 {
-  "last_updated": "2026-03-15T08:04:37.683358+00:00",
-  "total": 17,
-  "new_today": 4,
+  "last_updated": "2026-03-16T10:38:21.064572+00:00",
+  "total": 19,
+  "new_today": 2,
   "stats": [
+    {
+      "chiffre": "5 ans",
+      "unite": "de prison ferme",
+      "rubrique": "Politique",
+      "titre": "Sarkozy condamné 5 ans prison ferme",
+      "texte": "L'ex-président condamné en première instance pour financement libyen présumé",
+      "angle_viral": "Un ex-président français condamné à 5 ans de prison ferme pour corruption",
+      "comparaison": "Plus lourd que la peine de Trump aux États-Unis",
+      "source_nom": "Le Monde",
+      "source_url": "https://www.lemonde.fr/societe/article/2026/03/16/l-affaire-du-financement-libyen-presume-de-la-campagne-de-2007-de-nicolas-sarkozy-de-retour-devant-la-justice_6671351_3224.html",
+      "script_tiktok": "Nicolas Sarkozy condamné à 5 ans de prison ferme ! Premier ex-président français avec une telle peine. L'affaire du financement libyen fait trembler la République.",
+      "caption_insta": "🚨 BREAKING: Sarkozy condamné à 5 ans de prison ferme ! Premier ex-président avec une telle sentence #Sarkozy #Justice #France 🇫🇷⚖️",
+      "score_viralite": 9,
+      "generated_at": "2026-03-16T10:38:21.064162+00:00",
+      "id": "stat_20260316_001"
+    },
     {
       "chiffre": "15 ans",
       "unite": "de crimes",
@@ -146,6 +162,22 @@
       "score_viralite": 8,
       "generated_at": "2026-03-12T18:29:54.843380+00:00",
       "id": "stat_20260312_008"
+    },
+    {
+      "chiffre": "1ère fois",
+      "unite": "procès génocide",
+      "rubrique": "Société",
+      "titre": "Premier procès génocide yézidi France",
+      "texte": "La justice française juge pour la première fois un génocide yézidi",
+      "angle_viral": "Première historique : la France juge enfin le génocide des Yézidis par Daech",
+      "comparaison": "Après des années d'impunité internationale",
+      "source_nom": "Le Monde",
+      "source_url": "https://www.lemonde.fr/societe/article/2026/03/16/avec-le-proces-de-sabri-essid-la-justice-francaise-se-penche-pour-la-premiere-fois-sur-le-genocide-des-yezidis-commis-par-l-ei_6671350_3224.html",
+      "script_tiktok": "Première historique en France ! Un djihadiste jugé pour génocide des Yézidis. La justice française reconnaît enfin ces crimes atroces.",
+      "caption_insta": "⚖️ HISTORIQUE: 1er procès génocide yézidi en France ! Justice enfin rendue aux victimes 💔 #Justice #Yezidis #Génocide #France",
+      "score_viralite": 7,
+      "generated_at": "2026-03-16T10:38:21.064196+00:00",
+      "id": "stat_20260316_002"
     },
     {
       "chiffre": "26",

@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-16T10:38:21.064572+00:00",
-  "total": 19,
-  "new_today": 2,
+  "last_updated": "2026-03-17T10:11:21.159509+00:00",
+  "total": 22,
+  "new_today": 3,
   "stats": [
     {
       "chiffre": "5 ans",
@@ -66,6 +66,22 @@
       "score_viralite": 9,
       "generated_at": "2026-03-12T18:29:42.431534+00:00",
       "id": "stat_20260312_004"
+    },
+    {
+      "chiffre": "62%",
+      "unite": "des demandeurs HLM",
+      "rubrique": "Logement",
+      "titre": "HLM : 62% des demandeurs sont très précaires",
+      "texte": "62% des candidats HLM relèvent des logements très sociaux mais ce parc diminue",
+      "angle_viral": "Les HLM abandonnent les plus pauvres : 62% des demandeurs sont très précaires mais l'offre diminue",
+      "comparaison": "Plus de 6 demandeurs sur 10 sont dans la précarité extrême",
+      "source_nom": "Ancols - Le Monde",
+      "source_url": "https://www.lemonde.fr/societe/article/2026/03/17/logement-le-parc-hlm-s-eloigne-de-sa-cible-principale-les-demandeurs-les-plus-precaires_6671592_3224.html",
+      "script_tiktok": "62% des demandeurs HLM sont très précaires. Mais paradoxe : le parc très social diminue. Les HLM abandonnent ceux qui en ont le plus besoin !",
+      "caption_insta": "🏠💔 62% des demandeurs HLM sont très précaires mais l'offre diminue ! #LogementSocial #HLM #Precarite #France",
+      "score_viralite": 8,
+      "generated_at": "2026-03-17T10:11:21.158995+00:00",
+      "id": "stat_20260317_001"
     },
     {
       "chiffre": "10",
@@ -164,6 +180,22 @@
       "id": "stat_20260312_008"
     },
     {
+      "chiffre": "50",
+      "unite": "pays",
+      "rubrique": "Société",
+      "titre": "Liberté académique en recul dans 50 pays",
+      "texte": "La liberté de recherche et d'enseignement a reculé dans 50 pays depuis 2015",
+      "angle_viral": "Alerte mondiale : 50 pays censurent désormais leurs chercheurs et universités depuis 2015",
+      "comparaison": "1 pays sur 4 dans le monde limite la liberté académique",
+      "source_nom": "Indice de liberté académique 2026 - Le Monde",
+      "source_url": "https://www.lemonde.fr/education/article/2026/03/17/la-liberte-de-la-recherche-et-de-l-enseignement-est-en-recul-dans-un-grand-nombre-de-pays_6671598_1473685.html",
+      "script_tiktok": "50 pays censurent leurs chercheurs depuis 2015. La liberté académique recule partout. La science sous pression !",
+      "caption_insta": "🚨📚 50 pays censurent leurs chercheurs depuis 2015 ! Science en danger 🔬 #LiberteAcademique #Recherche #Censure",
+      "score_viralite": 7,
+      "generated_at": "2026-03-17T10:11:21.159027+00:00",
+      "id": "stat_20260317_002"
+    },
+    {
       "chiffre": "1ère fois",
       "unite": "procès génocide",
       "rubrique": "Société",
@@ -258,6 +290,22 @@
       "score_viralite": 7,
       "generated_at": "2026-03-12T18:29:54.843350+00:00",
       "id": "stat_20260312_007"
+    },
+    {
+      "chiffre": "28 ans",
+      "unite": "de réclusion",
+      "rubrique": "Société",
+      "titre": "Condamné 2 fois à 28 ans de prison",
+      "texte": "Nicolas Zepeda déjà condamné deux fois à 28 ans de réclusion criminelle",
+      "angle_viral": "Incroyable : un homme jugé 3 fois pour le même meurtre après 2 condamnations à 28 ans",
+      "comparaison": "Plus de 2 décennies d'emprisonnement déjà prononcées deux fois",
+      "source_nom": "Le Monde",
+      "source_url": "https://www.lemonde.fr/societe/article/2026/03/17/le-troisieme-proces-de-nicolas-zepeda-juge-pour-l-assassinat-de-son-ex-petite-amie-narumi-kurosaki-s-ouvre-devant-la-cour-d-assises-du-rhone_6671597_3224.html",
+      "script_tiktok": "Un homme jugé pour la 3ème fois. Déjà condamné 2 fois à 28 ans de prison. Même affaire, 3ème procès !",
+      "caption_insta": "⚖️ 3ème procès pour le même crime ! Déjà condamné 2x à 28 ans 😱 #Justice #Proces #Affaire",
+      "score_viralite": 6,
+      "generated_at": "2026-03-17T10:11:21.159038+00:00",
+      "id": "stat_20260317_003"
     },
     {
       "chiffre": "49 000",

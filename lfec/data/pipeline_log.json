@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-03-17T10:11:21.160126+00:00",
+    "articles_scraped": 5,
+    "stats_generated": 3,
+    "duration_seconds": 42.8,
+    "status": "success"
+  },
+  {
     "date": "2026-03-16T10:38:21.065093+00:00",
     "articles_scraped": 4,
     "stats_generated": 2,
